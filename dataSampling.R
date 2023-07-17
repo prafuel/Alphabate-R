@@ -1,5 +1,5 @@
 
-# Feature selection using Impurity / Entropy technique and balancing dataset using zscore
+# Feature selection using Impurity / Entropy technique and balancing dataset using z-score
 
 library(dplyr)
 df <- read.csv("/home/prafull/This_1/college/commonModule/Data_Science/project/R/heart.csv")
